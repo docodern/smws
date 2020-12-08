@@ -129,11 +129,8 @@ Language file example:
 // en.json
 {
     "smws": {
-        "path": {
-            // there is all parametr values
             "category": "category",
             "lang": "en"
-        }
     },
     "hello": "Hello world"
 }
