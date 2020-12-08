@@ -1,0 +1,17 @@
+{
+  "name": "smws",
+  "version": "1.0.0",
+  "description": "Simple multilingual website module",
+  "main": "smws.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "multilingual",
+    "smws",
+    "seo",
+    "languages"
+  ],
+  "author": "Dmitrijs Osipovs <dmitrijsosipov@gmail.com> (https://docodern.dev)",
+  "license": "MIT"
+}
