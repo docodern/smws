@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang=<%= it.smws.lang %>>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="/public/favicon.ico">
+    <title>smws test</title>
+</head>
+<body>
+<div>
+    <p><%= it.categoryPage %></p>
+     <p><a href="/<%= it.smws.lang %>/<%= it.smws.category %>/<%= it.smws.subCategory %>"><%= it.categoryText %></a></p>
+     <p><a href="/<%= it.smws.lang %>"><%= it.backHome %></a></p>
+</div>
+<div>
+<form action="/<%= it.smws.lang %>/language" method="post">
+    <button class="en-button" type="submit" name="lang" value="en">EN</button>
+    <button class="ru-button" type="submit" name="lang" value="ru">RU</button>
+</form>
+</div>
+</body>
+</html>

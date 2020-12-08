@@ -1,0 +1,15 @@
+{
+	"smws": {
+        
+			"category": "kategoriya",
+			"subCategory": "podkat",
+            "lang": "ru"
+      
+	},
+	"hello": "Это главная страница на 'RU'",
+	"categoryPage": "Это страница категории на  'RU'",
+	"subCategory": "Это страница ПОДкатегории на  'RU'",
+	"mainText": "Перейти на страницу категории",
+	"categoryText": "Перейти на страницу ПОДкатегории",
+	"backHome": "Перейти на  главную страницу"
+}

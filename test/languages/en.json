@@ -1,0 +1,15 @@
+{
+    "smws": {
+        
+            "category": "category",
+            "subCategory": "subcat",
+            "lang": "en"
+        
+    },
+    "hello": "This is main page in 'EN'",
+    "categoryPage": "This is category page in 'EN'",
+    "subCategory": "This is SUBcategory page in 'EN'",
+    "mainText": "Go to the category page",
+    "categoryText": "Go to the SUBcategory",
+	"backHome": "Back to home page"
+}
